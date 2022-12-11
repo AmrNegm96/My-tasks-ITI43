@@ -1,0 +1,15 @@
+1- Basics of programming using C language 	
+	
+	--OOP principals
+	--Classes
+	--Setters & Getters
+	--Function overloading
+	--Constructor types and destructors
+	--Operator overload
+	--Static functions and static variable
+	--Relations between classes
+	--Inheritance 
+	--Dynamic binding 
+	--Pure virtual functions 
+	--Abstract Class
+	--Various types of tasks
