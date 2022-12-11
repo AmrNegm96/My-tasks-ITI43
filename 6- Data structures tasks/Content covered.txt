@@ -1,0 +1,12 @@
+1- Double linked list
+
+2- Sorting algorithms ( selection sort , bubble sort , merge sort , insert sort , quick sort )
+
+3- Searching algorithms
+
+4- Binary tree 
+
+5- Binary search tree
+
+6- AVL tree 
+
