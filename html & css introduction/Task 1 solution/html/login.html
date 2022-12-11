@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Document</title>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+                        <form action="page2.html">
+                            <fieldset>
+                                <legend>Login</legend>
+                                <div>
+                                    <label for="uName"> User Name: </label>
+                                <input name="uname" id="uName" required type="text" />
+                                </div>
+                                <div>
+                                    <label for="uPass">Password: </label>
+                                <input name="upass" id="upass" required type="password" />
+                                </div>
+                                <div>
+                                    <label for="uLocation"> Choose your location</label>
+                                <select name="uLocation" id="uLocation">
+                                    <optgroup label="Africa">
+                                        <option value="">Egypt</option>
+                                        <option value="">Sudan</option>
+                                        <option value="">Namibia</option>
+                                    </optgroup>    
+                                    <optgroup label="Europe">
+                                        <option value="">France</option>
+                                        <option value="">Russia</option>
+                                        <option value="">UK</option>
+                                    </optgroup>    
+                                    <optgroup label="North America" disabled>
+                                        <option value="">Canada</option>
+                                        <option value="">Mexico</option>
+                                        <option value="">USA</option> 
+                                    </optgroup>   
+                                </select>
+                                </div>
+                                <div>
+                                    <input type="checkbox" id="rememberMe" accesskey="m">
+                                <label for="rememberMe"> Remember <u>m</u>e </label>
+                                </div>
+                                <div>
+                                    <input type="submit" name="login" id="login">
+                                </div>  
+                            </fieldset>
+                        </form>
+                        
+</body>
+</html>
