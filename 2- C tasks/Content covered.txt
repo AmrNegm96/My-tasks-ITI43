@@ -1,0 +1,10 @@
+1- Basics of programming using C language 	
+	
+	--Linear programming
+	--Structured programming 
+	--Data types
+	--Types operators
+	--Branching (if,switch)
+	--Looping(for,while,do while)
+	--Pointers
+	--Various types of tasks
