@@ -1,0 +1,6 @@
+1- ERD 
+2- Mapping
+3- Normalization 
+4- EERD (Super entity - Sub entity)
+5-SQL server queries 
+
