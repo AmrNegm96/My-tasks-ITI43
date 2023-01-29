@@ -1,0 +1,15 @@
+D:\MY ITI\11- C#\day 5\day 5 solutions\day 5 solution\main\bin\Debug\net7.0\main.exe
+D:\MY ITI\11- C#\day 5\day 5 solutions\day 5 solution\main\bin\Debug\net7.0\main.deps.json
+D:\MY ITI\11- C#\day 5\day 5 solutions\day 5 solution\main\bin\Debug\net7.0\main.runtimeconfig.json
+D:\MY ITI\11- C#\day 5\day 5 solutions\day 5 solution\main\bin\Debug\net7.0\main.dll
+D:\MY ITI\11- C#\day 5\day 5 solutions\day 5 solution\main\bin\Debug\net7.0\main.pdb
+D:\MY ITI\11- C#\day 5\day 5 solutions\day 5 solution\main\obj\Debug\net7.0\main.csproj.AssemblyReference.cache
+D:\MY ITI\11- C#\day 5\day 5 solutions\day 5 solution\main\obj\Debug\net7.0\main.GeneratedMSBuildEditorConfig.editorconfig
+D:\MY ITI\11- C#\day 5\day 5 solutions\day 5 solution\main\obj\Debug\net7.0\main.AssemblyInfoInputs.cache
+D:\MY ITI\11- C#\day 5\day 5 solutions\day 5 solution\main\obj\Debug\net7.0\main.AssemblyInfo.cs
+D:\MY ITI\11- C#\day 5\day 5 solutions\day 5 solution\main\obj\Debug\net7.0\main.csproj.CoreCompileInputs.cache
+D:\MY ITI\11- C#\day 5\day 5 solutions\day 5 solution\main\obj\Debug\net7.0\main.dll
+D:\MY ITI\11- C#\day 5\day 5 solutions\day 5 solution\main\obj\Debug\net7.0\refint\main.dll
+D:\MY ITI\11- C#\day 5\day 5 solutions\day 5 solution\main\obj\Debug\net7.0\main.pdb
+D:\MY ITI\11- C#\day 5\day 5 solutions\day 5 solution\main\obj\Debug\net7.0\main.genruntimeconfig.cache
+D:\MY ITI\11- C#\day 5\day 5 solutions\day 5 solution\main\obj\Debug\net7.0\ref\main.dll
