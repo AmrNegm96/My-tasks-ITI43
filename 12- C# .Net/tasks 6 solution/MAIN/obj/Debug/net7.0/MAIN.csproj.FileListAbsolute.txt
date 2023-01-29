@@ -1,0 +1,15 @@
+D:\MY ITI\11- C#\day 6\day 6 tasks\Day 6 tasks\MAIN\bin\Debug\net7.0\MAIN.exe
+D:\MY ITI\11- C#\day 6\day 6 tasks\Day 6 tasks\MAIN\bin\Debug\net7.0\MAIN.deps.json
+D:\MY ITI\11- C#\day 6\day 6 tasks\Day 6 tasks\MAIN\bin\Debug\net7.0\MAIN.runtimeconfig.json
+D:\MY ITI\11- C#\day 6\day 6 tasks\Day 6 tasks\MAIN\bin\Debug\net7.0\MAIN.dll
+D:\MY ITI\11- C#\day 6\day 6 tasks\Day 6 tasks\MAIN\bin\Debug\net7.0\MAIN.pdb
+D:\MY ITI\11- C#\day 6\day 6 tasks\Day 6 tasks\MAIN\obj\Debug\net7.0\MAIN.csproj.AssemblyReference.cache
+D:\MY ITI\11- C#\day 6\day 6 tasks\Day 6 tasks\MAIN\obj\Debug\net7.0\MAIN.GeneratedMSBuildEditorConfig.editorconfig
+D:\MY ITI\11- C#\day 6\day 6 tasks\Day 6 tasks\MAIN\obj\Debug\net7.0\MAIN.AssemblyInfoInputs.cache
+D:\MY ITI\11- C#\day 6\day 6 tasks\Day 6 tasks\MAIN\obj\Debug\net7.0\MAIN.AssemblyInfo.cs
+D:\MY ITI\11- C#\day 6\day 6 tasks\Day 6 tasks\MAIN\obj\Debug\net7.0\MAIN.csproj.CoreCompileInputs.cache
+D:\MY ITI\11- C#\day 6\day 6 tasks\Day 6 tasks\MAIN\obj\Debug\net7.0\MAIN.dll
+D:\MY ITI\11- C#\day 6\day 6 tasks\Day 6 tasks\MAIN\obj\Debug\net7.0\refint\MAIN.dll
+D:\MY ITI\11- C#\day 6\day 6 tasks\Day 6 tasks\MAIN\obj\Debug\net7.0\MAIN.pdb
+D:\MY ITI\11- C#\day 6\day 6 tasks\Day 6 tasks\MAIN\obj\Debug\net7.0\MAIN.genruntimeconfig.cache
+D:\MY ITI\11- C#\day 6\day 6 tasks\Day 6 tasks\MAIN\obj\Debug\net7.0\ref\MAIN.dll
