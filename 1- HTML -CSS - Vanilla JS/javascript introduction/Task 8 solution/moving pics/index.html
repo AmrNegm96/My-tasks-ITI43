@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+<style>
+    #moving-place {
+    height: 500px;
+    width: 500px;
+    background-color: beige;
+    border: 5px solid black;
+    margin: 0 0 30px 0;
+    }
+
+    p {
+        color: #19547b;
+        font-family: "Adobe Garamond Pro Bold", serif;
+        font-size: 18px;
+    }
+
+
+    #img0 {
+        position: absolute;
+        left: 20px;
+        top: 200px;
+    }
+
+    #img1 {
+        position: absolute;
+        left: 460px;
+        top: 200px;
+    }
+
+    #img2 {
+        position: absolute;
+        left: 240px;
+        top: 470px;
+    }
+
+
+    </style>
+</head>
+<body>
+
+    <div id="moving-place">
+
+        <img src="icon1.gif" alt="" id="img0" style="position: absolute; left: 300; top: 100;">
+        <img src="icon2.gif" alt="" id="img1" style="position: absolute; left: 300; top: 100;">
+        <img src="TOP.JPG"   alt="" id="img2" style="position: absolute; left: 300; top: 100;"> 
+
+    </div>
+
+    <button id="stop/movebtn"> Move </button>
+    <button id="resetbtn"> Reset </button>
+
+    <div>
+        <p>&lt;img src="icon1.gif" style="left:<span id="p1"></span>"&gt;</p>
+        <p>&lt;img src="icon2.gif" style="left:<span id="p2"></span>"&gt;</p>
+    </div>
+    
+    <script src="task4.js"></script>
+</body>
+</html>
