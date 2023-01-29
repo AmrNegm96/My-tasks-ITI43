@@ -1,0 +1,189 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.container0{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.btn{
+    border: 1px solid #3498db;
+    border-radius: 30px;
+    background-color: transparent;
+    padding: 30px,60px;
+    font-size: 40px;
+    font-family: "montserrat";
+    cursor: pointer;
+    margin: 10px;
+    transition: 0.8s;
+    position: relative;  /* study positioning*/
+    overflow: hidden;
+}
+ 
+.btn1 , .btn2 ,.btn3 , .btn4 {
+    color: #3498db;
+}
+
+.btn1:hover , .btn2:hover , .btn3:hover ,.btn4:hover {
+    background-color: #3498db;
+    color: #fff;
+}
+
+/* .btn3 , .btn4 {
+    color: #fff;
+}
+.btn3:hover , .btn4:hover {
+    color: #3498db;
+} */
+
+/* study before attribute
+.btn::before{
+    content: "";
+    position: absolute;
+    left: 0;
+    width: 100%;
+    height: 0;
+    background-color: #3498db;
+    z-index: -1;
+    transition: 0.8s;
+}
+
+
+.btn1::before , .btn3::before{
+    top: 0;
+    border-radius: 0 0 50% 50%;
+
+}
+
+.btn2::before , .btn4::before{
+    bottom: 0;
+    border-radius: 50% 50% 0 0;
+}
+
+.btn3::before , .btn4::before{
+    height: 180%;
+}
+
+.btn1:hover::before , .btn2:hover::before{
+    height: 180%;
+}
+
+.btn3:hover::before , .btn4:hover::before{
+    height: 0%;
+} */
+
+
+
+.container1 {
+    margin: auto; /* to make div in center use margin auto*/
+    width:400px;
+    height:350px;
+    font-size: 17px;
+    background-color:white;
+    border: solid black;
+    z-index: 999;
+    position: relative;
+    padding: 15px; 
+    border-radius: 30px;
+}
+
+
+.mainImage{
+    margin-top: 25px;
+    width: 400px;
+    height: 300px;
+    position: relative;
+    border: 1px solid #3498db;
+    border-radius: 30px;
+}
+.imgL{
+    position: absolute;
+    left: 30px;
+    top: 175px;
+    width: 30px;
+    height: 30px;
+}
+.imgR{
+    position: absolute;
+    right: 30px;
+    top: 175px;
+    width: 30px;
+    height: 30px;
+}
+
+/*got it from website I should study these attributes */
+
+.button-6 {
+    align-items: center;
+    background-color: #FFFFFF;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: .25rem;
+    box-shadow: rgba(0, 0, 0, 0.02) 0 1px 3px 0;
+    box-sizing: border-box;
+    color: rgba(0, 0, 0, 0.85);
+    cursor: pointer;
+    display: inline-flex;
+    font-family: system-ui,-apple-system,system-ui,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    justify-content: center;
+    line-height: 1.25;
+    margin: 0;
+    min-height: 3rem;
+    padding: calc(.875rem - 1px) calc(1.5rem - 1px);
+    position: relative;
+    text-decoration: none;
+    transition: all 250ms;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    vertical-align: baseline;
+    width: auto;
+  }
+  
+  .button-6:hover,
+  .button-6:focus {
+    border-color: rgba(0, 0, 0, 0.15);
+    box-shadow: rgba(0, 0, 0, 0.1) 0 4px 12px;
+    color: rgba(0, 0, 0, 0.65);
+  }
+  
+  .button-6:hover {
+    transform: translateY(-1px);
+  }
+  
+  .button-6:active {
+    background-color: #F0F0F1;
+    border-color: rgba(0, 0, 0, 0.15);
+    box-shadow: rgba(0, 0, 0, 0.06) 0 2px 4px;
+    color: rgba(0, 0, 0, 0.65);
+    transform: translateY(0);
+  }
+
+  ul{
+    position: absolute;
+    left:910px;
+  }
+  ul li{
+    background-color: #3498db;
+    border: 1px solid #3498db;
+    border-radius: 30px;
+    font-size: 40px;
+    color: #fff;
+    padding: 3px;
+    margin-bottom: 10px;
+    list-style: none;
+    transition: 0.8s;
+  }
+  ul li:hover{
+    background-color: #fff;
+    border: 1px solid #3498db;
+    border-radius: 30px;
+    font-size: 40px;
+    color: #3498db;
+    padding: 3px;
+    margin-bottom: 10px;
+  }
+
