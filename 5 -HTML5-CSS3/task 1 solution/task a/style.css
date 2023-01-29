@@ -1,0 +1,35 @@
+body{
+    margin: 0px;
+   
+}
+section{
+    margin: 500px;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    flex-direction: column;
+}
+video{
+    width: 600px;
+    height: 400px;  
+}
+.buttons{
+    display: flex;
+    justify-items: center;
+}
+.buttons button {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.progress{
+    display: flex;
+    justify-content: space-between;
+    width: 600px;
+}
+#progress{
+    width: 500px;
+}
+
+span{
+    display: inline-block;
+}
