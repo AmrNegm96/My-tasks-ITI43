@@ -1,0 +1,11 @@
+97,36 to 240,187  twitter
+
+316,187 to 467,327 facebook 
+
+28,179 to 176,325  facebook
+
+179,186 to 318,328 google
+
+240,57 to 384,181 outlook 
+ 
+
