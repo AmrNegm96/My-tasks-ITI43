@@ -1,0 +1,15 @@
+D:\MY ITI\11- C#\day 1\tasks 1 solution\day 01\Hello\obj\Debug\net7.0\Hello.csproj.AssemblyReference.cache
+D:\MY ITI\11- C#\day 1\tasks 1 solution\day 01\Hello\obj\Debug\net7.0\Hello.GeneratedMSBuildEditorConfig.editorconfig
+D:\MY ITI\11- C#\day 1\tasks 1 solution\day 01\Hello\obj\Debug\net7.0\Hello.AssemblyInfoInputs.cache
+D:\MY ITI\11- C#\day 1\tasks 1 solution\day 01\Hello\obj\Debug\net7.0\Hello.AssemblyInfo.cs
+D:\MY ITI\11- C#\day 1\tasks 1 solution\day 01\Hello\obj\Debug\net7.0\Hello.csproj.CoreCompileInputs.cache
+D:\MY ITI\11- C#\day 1\tasks 1 solution\day 01\Hello\bin\Debug\net7.0\Hello.exe
+D:\MY ITI\11- C#\day 1\tasks 1 solution\day 01\Hello\bin\Debug\net7.0\Hello.deps.json
+D:\MY ITI\11- C#\day 1\tasks 1 solution\day 01\Hello\bin\Debug\net7.0\Hello.runtimeconfig.json
+D:\MY ITI\11- C#\day 1\tasks 1 solution\day 01\Hello\bin\Debug\net7.0\Hello.dll
+D:\MY ITI\11- C#\day 1\tasks 1 solution\day 01\Hello\bin\Debug\net7.0\Hello.pdb
+D:\MY ITI\11- C#\day 1\tasks 1 solution\day 01\Hello\obj\Debug\net7.0\Hello.dll
+D:\MY ITI\11- C#\day 1\tasks 1 solution\day 01\Hello\obj\Debug\net7.0\refint\Hello.dll
+D:\MY ITI\11- C#\day 1\tasks 1 solution\day 01\Hello\obj\Debug\net7.0\Hello.pdb
+D:\MY ITI\11- C#\day 1\tasks 1 solution\day 01\Hello\obj\Debug\net7.0\Hello.genruntimeconfig.cache
+D:\MY ITI\11- C#\day 1\tasks 1 solution\day 01\Hello\obj\Debug\net7.0\ref\Hello.dll
