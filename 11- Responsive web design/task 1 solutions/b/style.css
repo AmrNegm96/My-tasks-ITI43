@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.parent{
+    display: flex;
+    justify-content: space-evenly;
+    justify-items: center;
+    align-items: center;
+    height: 650px;
+}
+.child{
+    border: 2px solid black;
+    width: 100px;
+    height: 100px;
+    color: white;
+    background-color: black;
+    text-align: center;
+}

@@ -1,0 +1,49 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.parent{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.header{
+    background-color: aquamarine;
+    height: 50px;
+    text-align: center;
+}
+.middle{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    height: 200px;
+}
+.side-nav{
+    background-color: sienna;
+    flex-basis: 30%;
+}
+.main-content{
+    background-color: forestgreen;
+    flex-basis: 70%;
+}
+.side-bar{
+    background-color: sienna;
+    flex-basis: 30%;
+}
+.footer{
+    background-color: aquamarine;
+    height: 50px;
+    text-align: center;
+}
+
+@media (max-width:500px)
+{
+    .middle{
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        height: 200px;
+    }
+}
