@@ -1,0 +1,60 @@
+D:\MY ITI\11- C#\day 9\tasks 9 solution\Main\bin\Debug\net7.0\Main.exe
+D:\MY ITI\11- C#\day 9\tasks 9 solution\Main\bin\Debug\net7.0\Main.deps.json
+D:\MY ITI\11- C#\day 9\tasks 9 solution\Main\bin\Debug\net7.0\Main.runtimeconfig.json
+D:\MY ITI\11- C#\day 9\tasks 9 solution\Main\bin\Debug\net7.0\Main.dll
+D:\MY ITI\11- C#\day 9\tasks 9 solution\Main\bin\Debug\net7.0\Main.pdb
+D:\MY ITI\11- C#\day 9\tasks 9 solution\Main\obj\Debug\net7.0\Main.csproj.AssemblyReference.cache
+D:\MY ITI\11- C#\day 9\tasks 9 solution\Main\obj\Debug\net7.0\Main.GeneratedMSBuildEditorConfig.editorconfig
+D:\MY ITI\11- C#\day 9\tasks 9 solution\Main\obj\Debug\net7.0\Main.AssemblyInfoInputs.cache
+D:\MY ITI\11- C#\day 9\tasks 9 solution\Main\obj\Debug\net7.0\Main.AssemblyInfo.cs
+D:\MY ITI\11- C#\day 9\tasks 9 solution\Main\obj\Debug\net7.0\Main.csproj.CoreCompileInputs.cache
+D:\MY ITI\11- C#\day 9\tasks 9 solution\Main\obj\Debug\net7.0\Main.dll
+D:\MY ITI\11- C#\day 9\tasks 9 solution\Main\obj\Debug\net7.0\refint\Main.dll
+D:\MY ITI\11- C#\day 9\tasks 9 solution\Main\obj\Debug\net7.0\Main.pdb
+D:\MY ITI\11- C#\day 9\tasks 9 solution\Main\obj\Debug\net7.0\Main.genruntimeconfig.cache
+D:\MY ITI\11- C#\day 9\tasks 9 solution\Main\obj\Debug\net7.0\ref\Main.dll
+C:\Users\mahmo\OneDrive\Desktop\tasks 9 solution\Main\bin\Debug\net7.0\Main.exe
+C:\Users\mahmo\OneDrive\Desktop\tasks 9 solution\Main\bin\Debug\net7.0\Main.deps.json
+C:\Users\mahmo\OneDrive\Desktop\tasks 9 solution\Main\bin\Debug\net7.0\Main.runtimeconfig.json
+C:\Users\mahmo\OneDrive\Desktop\tasks 9 solution\Main\bin\Debug\net7.0\Main.dll
+C:\Users\mahmo\OneDrive\Desktop\tasks 9 solution\Main\bin\Debug\net7.0\Main.pdb
+C:\Users\mahmo\OneDrive\Desktop\tasks 9 solution\Main\obj\Debug\net7.0\Main.csproj.AssemblyReference.cache
+C:\Users\mahmo\OneDrive\Desktop\tasks 9 solution\Main\obj\Debug\net7.0\Main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahmo\OneDrive\Desktop\tasks 9 solution\Main\obj\Debug\net7.0\Main.AssemblyInfoInputs.cache
+C:\Users\mahmo\OneDrive\Desktop\tasks 9 solution\Main\obj\Debug\net7.0\Main.AssemblyInfo.cs
+C:\Users\mahmo\OneDrive\Desktop\tasks 9 solution\Main\obj\Debug\net7.0\Main.csproj.CoreCompileInputs.cache
+C:\Users\mahmo\OneDrive\Desktop\tasks 9 solution\Main\obj\Debug\net7.0\Main.dll
+C:\Users\mahmo\OneDrive\Desktop\tasks 9 solution\Main\obj\Debug\net7.0\refint\Main.dll
+C:\Users\mahmo\OneDrive\Desktop\tasks 9 solution\Main\obj\Debug\net7.0\Main.pdb
+C:\Users\mahmo\OneDrive\Desktop\tasks 9 solution\Main\obj\Debug\net7.0\Main.genruntimeconfig.cache
+C:\Users\mahmo\OneDrive\Desktop\tasks 9 solution\Main\obj\Debug\net7.0\ref\Main.dll
+D:\ITI9month\C#\Day9\tasks 9 solution\Main\bin\Debug\net7.0\Main.exe
+D:\ITI9month\C#\Day9\tasks 9 solution\Main\bin\Debug\net7.0\Main.deps.json
+D:\ITI9month\C#\Day9\tasks 9 solution\Main\bin\Debug\net7.0\Main.runtimeconfig.json
+D:\ITI9month\C#\Day9\tasks 9 solution\Main\bin\Debug\net7.0\Main.dll
+D:\ITI9month\C#\Day9\tasks 9 solution\Main\bin\Debug\net7.0\Main.pdb
+D:\ITI9month\C#\Day9\tasks 9 solution\Main\obj\Debug\net7.0\Main.csproj.AssemblyReference.cache
+D:\ITI9month\C#\Day9\tasks 9 solution\Main\obj\Debug\net7.0\Main.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI9month\C#\Day9\tasks 9 solution\Main\obj\Debug\net7.0\Main.AssemblyInfoInputs.cache
+D:\ITI9month\C#\Day9\tasks 9 solution\Main\obj\Debug\net7.0\Main.AssemblyInfo.cs
+D:\ITI9month\C#\Day9\tasks 9 solution\Main\obj\Debug\net7.0\Main.csproj.CoreCompileInputs.cache
+D:\ITI9month\C#\Day9\tasks 9 solution\Main\obj\Debug\net7.0\Main.dll
+D:\ITI9month\C#\Day9\tasks 9 solution\Main\obj\Debug\net7.0\refint\Main.dll
+D:\ITI9month\C#\Day9\tasks 9 solution\Main\obj\Debug\net7.0\Main.pdb
+D:\ITI9month\C#\Day9\tasks 9 solution\Main\obj\Debug\net7.0\Main.genruntimeconfig.cache
+D:\ITI9month\C#\Day9\tasks 9 solution\Main\obj\Debug\net7.0\ref\Main.dll
+D:\MY ITI\11- C#\day 9\tasks 9 solution (1)\tasks 9 solution\Main\bin\Debug\net7.0\Main.exe
+D:\MY ITI\11- C#\day 9\tasks 9 solution (1)\tasks 9 solution\Main\bin\Debug\net7.0\Main.deps.json
+D:\MY ITI\11- C#\day 9\tasks 9 solution (1)\tasks 9 solution\Main\bin\Debug\net7.0\Main.runtimeconfig.json
+D:\MY ITI\11- C#\day 9\tasks 9 solution (1)\tasks 9 solution\Main\bin\Debug\net7.0\Main.dll
+D:\MY ITI\11- C#\day 9\tasks 9 solution (1)\tasks 9 solution\Main\bin\Debug\net7.0\Main.pdb
+D:\MY ITI\11- C#\day 9\tasks 9 solution (1)\tasks 9 solution\Main\obj\Debug\net7.0\Main.csproj.AssemblyReference.cache
+D:\MY ITI\11- C#\day 9\tasks 9 solution (1)\tasks 9 solution\Main\obj\Debug\net7.0\Main.GeneratedMSBuildEditorConfig.editorconfig
+D:\MY ITI\11- C#\day 9\tasks 9 solution (1)\tasks 9 solution\Main\obj\Debug\net7.0\Main.AssemblyInfoInputs.cache
+D:\MY ITI\11- C#\day 9\tasks 9 solution (1)\tasks 9 solution\Main\obj\Debug\net7.0\Main.AssemblyInfo.cs
+D:\MY ITI\11- C#\day 9\tasks 9 solution (1)\tasks 9 solution\Main\obj\Debug\net7.0\Main.csproj.CoreCompileInputs.cache
+D:\MY ITI\11- C#\day 9\tasks 9 solution (1)\tasks 9 solution\Main\obj\Debug\net7.0\Main.dll
+D:\MY ITI\11- C#\day 9\tasks 9 solution (1)\tasks 9 solution\Main\obj\Debug\net7.0\refint\Main.dll
+D:\MY ITI\11- C#\day 9\tasks 9 solution (1)\tasks 9 solution\Main\obj\Debug\net7.0\Main.pdb
+D:\MY ITI\11- C#\day 9\tasks 9 solution (1)\tasks 9 solution\Main\obj\Debug\net7.0\Main.genruntimeconfig.cache
+D:\MY ITI\11- C#\day 9\tasks 9 solution (1)\tasks 9 solution\Main\obj\Debug\net7.0\ref\Main.dll
