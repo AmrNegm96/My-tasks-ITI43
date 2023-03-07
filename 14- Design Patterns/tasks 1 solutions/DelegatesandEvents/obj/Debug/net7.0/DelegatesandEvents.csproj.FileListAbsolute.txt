@@ -1,0 +1,15 @@
+D:\MY ITI\14- Design patterns\day 1\tasks1Solution\DelegatesandEvents\bin\Debug\net7.0\DelegatesandEvents.exe
+D:\MY ITI\14- Design patterns\day 1\tasks1Solution\DelegatesandEvents\bin\Debug\net7.0\DelegatesandEvents.deps.json
+D:\MY ITI\14- Design patterns\day 1\tasks1Solution\DelegatesandEvents\bin\Debug\net7.0\DelegatesandEvents.runtimeconfig.json
+D:\MY ITI\14- Design patterns\day 1\tasks1Solution\DelegatesandEvents\bin\Debug\net7.0\DelegatesandEvents.dll
+D:\MY ITI\14- Design patterns\day 1\tasks1Solution\DelegatesandEvents\bin\Debug\net7.0\DelegatesandEvents.pdb
+D:\MY ITI\14- Design patterns\day 1\tasks1Solution\DelegatesandEvents\obj\Debug\net7.0\DelegatesandEvents.csproj.AssemblyReference.cache
+D:\MY ITI\14- Design patterns\day 1\tasks1Solution\DelegatesandEvents\obj\Debug\net7.0\DelegatesandEvents.GeneratedMSBuildEditorConfig.editorconfig
+D:\MY ITI\14- Design patterns\day 1\tasks1Solution\DelegatesandEvents\obj\Debug\net7.0\DelegatesandEvents.AssemblyInfoInputs.cache
+D:\MY ITI\14- Design patterns\day 1\tasks1Solution\DelegatesandEvents\obj\Debug\net7.0\DelegatesandEvents.AssemblyInfo.cs
+D:\MY ITI\14- Design patterns\day 1\tasks1Solution\DelegatesandEvents\obj\Debug\net7.0\DelegatesandEvents.csproj.CoreCompileInputs.cache
+D:\MY ITI\14- Design patterns\day 1\tasks1Solution\DelegatesandEvents\obj\Debug\net7.0\DelegatesandEvents.dll
+D:\MY ITI\14- Design patterns\day 1\tasks1Solution\DelegatesandEvents\obj\Debug\net7.0\refint\DelegatesandEvents.dll
+D:\MY ITI\14- Design patterns\day 1\tasks1Solution\DelegatesandEvents\obj\Debug\net7.0\DelegatesandEvents.pdb
+D:\MY ITI\14- Design patterns\day 1\tasks1Solution\DelegatesandEvents\obj\Debug\net7.0\DelegatesandEvents.genruntimeconfig.cache
+D:\MY ITI\14- Design patterns\day 1\tasks1Solution\DelegatesandEvents\obj\Debug\net7.0\ref\DelegatesandEvents.dll

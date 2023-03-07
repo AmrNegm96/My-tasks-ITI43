@@ -1,0 +1,15 @@
+D:\MY ITI\14- Design patterns\day 1\tasks1Solution\DecoratorDP\bin\Debug\net7.0\DecoratorDP.exe
+D:\MY ITI\14- Design patterns\day 1\tasks1Solution\DecoratorDP\bin\Debug\net7.0\DecoratorDP.deps.json
+D:\MY ITI\14- Design patterns\day 1\tasks1Solution\DecoratorDP\bin\Debug\net7.0\DecoratorDP.runtimeconfig.json
+D:\MY ITI\14- Design patterns\day 1\tasks1Solution\DecoratorDP\bin\Debug\net7.0\DecoratorDP.dll
+D:\MY ITI\14- Design patterns\day 1\tasks1Solution\DecoratorDP\bin\Debug\net7.0\DecoratorDP.pdb
+D:\MY ITI\14- Design patterns\day 1\tasks1Solution\DecoratorDP\obj\Debug\net7.0\DecoratorDP.csproj.AssemblyReference.cache
+D:\MY ITI\14- Design patterns\day 1\tasks1Solution\DecoratorDP\obj\Debug\net7.0\DecoratorDP.GeneratedMSBuildEditorConfig.editorconfig
+D:\MY ITI\14- Design patterns\day 1\tasks1Solution\DecoratorDP\obj\Debug\net7.0\DecoratorDP.AssemblyInfoInputs.cache
+D:\MY ITI\14- Design patterns\day 1\tasks1Solution\DecoratorDP\obj\Debug\net7.0\DecoratorDP.AssemblyInfo.cs
+D:\MY ITI\14- Design patterns\day 1\tasks1Solution\DecoratorDP\obj\Debug\net7.0\DecoratorDP.csproj.CoreCompileInputs.cache
+D:\MY ITI\14- Design patterns\day 1\tasks1Solution\DecoratorDP\obj\Debug\net7.0\DecoratorDP.dll
+D:\MY ITI\14- Design patterns\day 1\tasks1Solution\DecoratorDP\obj\Debug\net7.0\refint\DecoratorDP.dll
+D:\MY ITI\14- Design patterns\day 1\tasks1Solution\DecoratorDP\obj\Debug\net7.0\DecoratorDP.pdb
+D:\MY ITI\14- Design patterns\day 1\tasks1Solution\DecoratorDP\obj\Debug\net7.0\DecoratorDP.genruntimeconfig.cache
+D:\MY ITI\14- Design patterns\day 1\tasks1Solution\DecoratorDP\obj\Debug\net7.0\ref\DecoratorDP.dll
