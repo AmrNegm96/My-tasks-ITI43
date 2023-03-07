@@ -1,0 +1,15 @@
+D:\MY ITI\14- Design patterns\Mediator DP\MediatorDP\MediatorDP\obj\Debug\net7.0\MediatorDP.csproj.AssemblyReference.cache
+D:\MY ITI\14- Design patterns\Mediator DP\MediatorDP\MediatorDP\obj\Debug\net7.0\MediatorDP.GeneratedMSBuildEditorConfig.editorconfig
+D:\MY ITI\14- Design patterns\Mediator DP\MediatorDP\MediatorDP\obj\Debug\net7.0\MediatorDP.AssemblyInfoInputs.cache
+D:\MY ITI\14- Design patterns\Mediator DP\MediatorDP\MediatorDP\obj\Debug\net7.0\MediatorDP.AssemblyInfo.cs
+D:\MY ITI\14- Design patterns\Mediator DP\MediatorDP\MediatorDP\obj\Debug\net7.0\MediatorDP.csproj.CoreCompileInputs.cache
+D:\MY ITI\14- Design patterns\Mediator DP\MediatorDP\MediatorDP\bin\Debug\net7.0\MediatorDP.exe
+D:\MY ITI\14- Design patterns\Mediator DP\MediatorDP\MediatorDP\bin\Debug\net7.0\MediatorDP.deps.json
+D:\MY ITI\14- Design patterns\Mediator DP\MediatorDP\MediatorDP\bin\Debug\net7.0\MediatorDP.runtimeconfig.json
+D:\MY ITI\14- Design patterns\Mediator DP\MediatorDP\MediatorDP\bin\Debug\net7.0\MediatorDP.dll
+D:\MY ITI\14- Design patterns\Mediator DP\MediatorDP\MediatorDP\bin\Debug\net7.0\MediatorDP.pdb
+D:\MY ITI\14- Design patterns\Mediator DP\MediatorDP\MediatorDP\obj\Debug\net7.0\MediatorDP.dll
+D:\MY ITI\14- Design patterns\Mediator DP\MediatorDP\MediatorDP\obj\Debug\net7.0\refint\MediatorDP.dll
+D:\MY ITI\14- Design patterns\Mediator DP\MediatorDP\MediatorDP\obj\Debug\net7.0\MediatorDP.pdb
+D:\MY ITI\14- Design patterns\Mediator DP\MediatorDP\MediatorDP\obj\Debug\net7.0\MediatorDP.genruntimeconfig.cache
+D:\MY ITI\14- Design patterns\Mediator DP\MediatorDP\MediatorDP\obj\Debug\net7.0\ref\MediatorDP.dll
