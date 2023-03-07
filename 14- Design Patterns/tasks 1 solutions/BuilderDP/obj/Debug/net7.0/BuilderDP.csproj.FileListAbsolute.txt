@@ -1,0 +1,15 @@
+D:\MY ITI\14- Design patterns\day 1\tasks1Solution\BuilderDP\bin\Debug\net7.0\BuilderDP.exe
+D:\MY ITI\14- Design patterns\day 1\tasks1Solution\BuilderDP\bin\Debug\net7.0\BuilderDP.deps.json
+D:\MY ITI\14- Design patterns\day 1\tasks1Solution\BuilderDP\bin\Debug\net7.0\BuilderDP.runtimeconfig.json
+D:\MY ITI\14- Design patterns\day 1\tasks1Solution\BuilderDP\bin\Debug\net7.0\BuilderDP.dll
+D:\MY ITI\14- Design patterns\day 1\tasks1Solution\BuilderDP\bin\Debug\net7.0\BuilderDP.pdb
+D:\MY ITI\14- Design patterns\day 1\tasks1Solution\BuilderDP\obj\Debug\net7.0\BuilderDP.csproj.AssemblyReference.cache
+D:\MY ITI\14- Design patterns\day 1\tasks1Solution\BuilderDP\obj\Debug\net7.0\BuilderDP.GeneratedMSBuildEditorConfig.editorconfig
+D:\MY ITI\14- Design patterns\day 1\tasks1Solution\BuilderDP\obj\Debug\net7.0\BuilderDP.AssemblyInfoInputs.cache
+D:\MY ITI\14- Design patterns\day 1\tasks1Solution\BuilderDP\obj\Debug\net7.0\BuilderDP.AssemblyInfo.cs
+D:\MY ITI\14- Design patterns\day 1\tasks1Solution\BuilderDP\obj\Debug\net7.0\BuilderDP.csproj.CoreCompileInputs.cache
+D:\MY ITI\14- Design patterns\day 1\tasks1Solution\BuilderDP\obj\Debug\net7.0\BuilderDP.dll
+D:\MY ITI\14- Design patterns\day 1\tasks1Solution\BuilderDP\obj\Debug\net7.0\refint\BuilderDP.dll
+D:\MY ITI\14- Design patterns\day 1\tasks1Solution\BuilderDP\obj\Debug\net7.0\BuilderDP.pdb
+D:\MY ITI\14- Design patterns\day 1\tasks1Solution\BuilderDP\obj\Debug\net7.0\BuilderDP.genruntimeconfig.cache
+D:\MY ITI\14- Design patterns\day 1\tasks1Solution\BuilderDP\obj\Debug\net7.0\ref\BuilderDP.dll
