@@ -1,0 +1,93 @@
+﻿@{ Layout = null; }
+@*@{ Layout = "_MasterLayout.cshtml";}*@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    @{
+        var imagePath = "";
+        var fontColor = "";
+        var greetings = "";
+        var greetImage = "";
+    }
+</head>
+<body>
+    <div style="display: inline-block; background-image: url('backgrounds/11.jpg'); width: 45%; height: 500px;">
+        <form method="post">
+            <!-- #region background image -->
+            <label> choose background image</label>
+            <select name="backgroundList">
+                <option value="1.jpg">1</option>
+                <option value="2.jpg">2</option>
+                <option value="3.jpg">3</option>
+                <option value="4.jpg">4</option>
+            </select>
+            <!-- #endregion -->
+            <br />
+            <!-- #region font color -->
+            <label> choose font color</label>
+            <select name="colorList">
+                <option value="red">1</option>
+                <option value="yellow">2</option>
+                <option value="green">3</option>
+                <option value="black">4</option>
+            </select>
+            <!-- #endregion -->
+            <br />
+            <!-- #region greeting type -->
+            <label> choose greeting type</label>
+            <br />
+
+            <label for="birthday"> birthday</label>
+            <input type="radio" id="birthday" name="greeting" value="bd.jpg" />
+
+            <br />
+
+            <label for="Getwellsoon"> Get well soon</label>
+            <input type="radio" id="Getwellsoon" name="greeting" value="well.gif" />
+
+            <br />
+
+            <label for="valentine"> valentine</label>
+            <input type="radio" id="valentine" name="greeting" value="val.bmp" />
+
+            <br />
+
+            <label for="congrats"> congrats</label>
+            <input type="radio" id="congrats" name="greeting" value="congrats.gif" />
+            <!-- #endregion -->
+            <br />
+            <label for="addpic"> add the picture</label>
+            <input type="radio" name="addimage" value="addpic" />
+            <br />
+            <label for="greetMsg">enter the greeting messsage</label>
+            <br />
+            <textarea name="greetMsg"> </textarea>
+            <br />
+            <input type="submit" value="Generate" />
+        </form>
+
+    </div>
+
+    @{
+        if (IsPost)
+        {
+            imagePath = "/backgrounds/" + Request.Form["backgroundList"];
+            fontColor = Request.Form["colorList"];
+            greetings = Request.Form["greetMsg"];
+            greetImage = "/images/" + Request.Form["greeting"];
+            <div style="display: inline-block; background-image: url(@imagePath); width: 45%; height: 500px;">
+                <center>
+                    @{
+                        if (@Request.Form["addimage"] == "addpic")
+                        {
+                            <img src=@greetImage />
+                        }
+                    }
+                    <h1 style="color:@fontColor;">@greetings</h1>
+                </center>
+            </div>
+        }
+    }
+</body>
+</html>

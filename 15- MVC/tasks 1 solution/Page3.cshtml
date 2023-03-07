@@ -1,0 +1,32 @@
+﻿@using day1tasks
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+
+    @{
+        List<Product> products = new List<Product>()
+{
+            new Product(){Name="p1" , Id=1 , Price=1 },
+            new Product(){Name="p2" , Id=11 , Price=2 },
+            new Product(){Name="p3" , Id=111 , Price=3 },
+            new Product(){Name="p4" , Id=1111 , Price=4 },
+            new Product(){Name="p5" , Id=11111 , Price=5 },
+        };
+    }
+    @{
+        var chart = new Chart(width: 500, height: 500)
+            .AddTitle("Product prices")
+            .AddSeries(
+            name: "price",
+            xValue: products.Select(p => p.Name).ToArray(),
+            yValues: products.Select(p => p.Price).ToArray(),
+            chartType: "Column");
+    }
+
+    @chart.Write()
+</body>
+</html>
