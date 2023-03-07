@@ -1,0 +1,16 @@
+﻿@using Carstask.Models;
+@{
+    ViewBag.Title = "getById";
+
+    Car currentCar = ViewBag.selectedCar;
+}
+
+<h2>getById</h2>
+
+<h4>  ID : @currentCar.Num  </h4>
+<h4>  Name : @currentCar.Color  </h4>
+<h4>  Age : @currentCar.Model  </h4>
+<h4>  Email : @currentCar.Manfacture  </h4>
+
+
+<a href="/Car/getAll"> Back To List </a>

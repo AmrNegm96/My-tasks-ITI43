@@ -1,0 +1,17 @@
+﻿@using ImageTask.Models
+@{
+    ViewBag.Title = "ShowDetails";
+    Image image = ViewBag.Image;
+}
+
+<h2>ShowDetails</h2>
+<div>
+    <center>
+        <label>ID : @image.Id</label>
+        <br />
+        <label>Name : @image.Name</label>
+        <br />
+        <img src="~/Content/images/@image.imageUrl" />
+    </center>
+</div>
+

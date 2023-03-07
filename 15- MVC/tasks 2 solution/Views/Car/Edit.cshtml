@@ -1,0 +1,19 @@
+﻿@using Carstask.Models;
+@{
+    ViewBag.Title = "Edit";
+
+    Car editedCar = ViewBag.selectedCar;
+}
+
+<h2>Edit</h2>
+
+<form action="/Car/Edit" method="post">
+
+    <input type="text" name="id" value="@editedCar.Num" />
+    <input type="text" name="color" value="@editedCar.Color" />
+    <input type="text" name="model" value="@editedCar.Model" />
+    <input type="text" name="manfacture" value="@editedCar.Manfacture" />
+
+    <input type="submit" value="Save" />
+</form>
+

@@ -1,0 +1,48 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout02.cshtml";
+}
+
+@{
+    ViewBag.Title = "Home";
+}
+
+<h2>Home</h2>
+<h2>Please fill information</h2>
+
+<form action="/Image/ShowDetails" method="post">
+    <table class="table table-hover">
+        <tr>
+            <td>ID</td>
+            <td>
+                <input type="text" placeholder="ID" name="id" />
+            </td>
+        </tr>
+
+        <tr>
+            <td>Name</td>
+            <td>
+                <input type="text" placeholder="Name" name="name" />
+            </td>
+        </tr>
+        <tr>
+            <td>Choose Image</td>
+            <td>
+                <select name="imageNumber">
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                    <option value="6">6</option>
+                    <option value="7">7</option>
+                </select>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <input type="submit" value="Submit" class="btn btn-primary" />
+            </td>
+        </tr>
+    </table>
+
+</form>
