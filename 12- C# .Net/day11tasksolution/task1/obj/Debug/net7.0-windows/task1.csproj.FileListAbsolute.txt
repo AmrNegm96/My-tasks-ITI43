@@ -1,0 +1,34 @@
+C:\Users\Lenovo\OneDrive\Desktop\day11tasksolution\task1\bin\Debug\net7.0-windows\task1.exe
+C:\Users\Lenovo\OneDrive\Desktop\day11tasksolution\task1\bin\Debug\net7.0-windows\task1.deps.json
+C:\Users\Lenovo\OneDrive\Desktop\day11tasksolution\task1\bin\Debug\net7.0-windows\task1.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Desktop\day11tasksolution\task1\bin\Debug\net7.0-windows\task1.dll
+C:\Users\Lenovo\OneDrive\Desktop\day11tasksolution\task1\bin\Debug\net7.0-windows\task1.pdb
+C:\Users\Lenovo\OneDrive\Desktop\day11tasksolution\task1\obj\Debug\net7.0-windows\task1.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Desktop\day11tasksolution\task1\obj\Debug\net7.0-windows\task1.Form1.resources
+C:\Users\Lenovo\OneDrive\Desktop\day11tasksolution\task1\obj\Debug\net7.0-windows\task1.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Desktop\day11tasksolution\task1\obj\Debug\net7.0-windows\task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Desktop\day11tasksolution\task1\obj\Debug\net7.0-windows\task1.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\day11tasksolution\task1\obj\Debug\net7.0-windows\task1.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Desktop\day11tasksolution\task1\obj\Debug\net7.0-windows\task1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\day11tasksolution\task1\obj\Debug\net7.0-windows\task1.dll
+C:\Users\Lenovo\OneDrive\Desktop\day11tasksolution\task1\obj\Debug\net7.0-windows\refint\task1.dll
+C:\Users\Lenovo\OneDrive\Desktop\day11tasksolution\task1\obj\Debug\net7.0-windows\task1.pdb
+C:\Users\Lenovo\OneDrive\Desktop\day11tasksolution\task1\obj\Debug\net7.0-windows\task1.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive\Desktop\day11tasksolution\task1\obj\Debug\net7.0-windows\ref\task1.dll
+D:\MY ITI\11- C#\1- Start\day 11\day11tasksolution\task1\bin\Debug\net7.0-windows\task1.exe
+D:\MY ITI\11- C#\1- Start\day 11\day11tasksolution\task1\bin\Debug\net7.0-windows\task1.deps.json
+D:\MY ITI\11- C#\1- Start\day 11\day11tasksolution\task1\bin\Debug\net7.0-windows\task1.runtimeconfig.json
+D:\MY ITI\11- C#\1- Start\day 11\day11tasksolution\task1\bin\Debug\net7.0-windows\task1.dll
+D:\MY ITI\11- C#\1- Start\day 11\day11tasksolution\task1\bin\Debug\net7.0-windows\task1.pdb
+D:\MY ITI\11- C#\1- Start\day 11\day11tasksolution\task1\obj\Debug\net7.0-windows\task1.csproj.AssemblyReference.cache
+D:\MY ITI\11- C#\1- Start\day 11\day11tasksolution\task1\obj\Debug\net7.0-windows\task1.Form1.resources
+D:\MY ITI\11- C#\1- Start\day 11\day11tasksolution\task1\obj\Debug\net7.0-windows\task1.csproj.GenerateResource.cache
+D:\MY ITI\11- C#\1- Start\day 11\day11tasksolution\task1\obj\Debug\net7.0-windows\task1.GeneratedMSBuildEditorConfig.editorconfig
+D:\MY ITI\11- C#\1- Start\day 11\day11tasksolution\task1\obj\Debug\net7.0-windows\task1.AssemblyInfoInputs.cache
+D:\MY ITI\11- C#\1- Start\day 11\day11tasksolution\task1\obj\Debug\net7.0-windows\task1.AssemblyInfo.cs
+D:\MY ITI\11- C#\1- Start\day 11\day11tasksolution\task1\obj\Debug\net7.0-windows\task1.csproj.CoreCompileInputs.cache
+D:\MY ITI\11- C#\1- Start\day 11\day11tasksolution\task1\obj\Debug\net7.0-windows\task1.dll
+D:\MY ITI\11- C#\1- Start\day 11\day11tasksolution\task1\obj\Debug\net7.0-windows\refint\task1.dll
+D:\MY ITI\11- C#\1- Start\day 11\day11tasksolution\task1\obj\Debug\net7.0-windows\task1.pdb
+D:\MY ITI\11- C#\1- Start\day 11\day11tasksolution\task1\obj\Debug\net7.0-windows\task1.genruntimeconfig.cache
+D:\MY ITI\11- C#\1- Start\day 11\day11tasksolution\task1\obj\Debug\net7.0-windows\ref\task1.dll
