@@ -1,0 +1,15 @@
+D:\MY ITI\14- Design patterns\day 1\tasks1Solution\StrategyDP\obj\Debug\net7.0\StrategyDP.csproj.AssemblyReference.cache
+D:\MY ITI\14- Design patterns\day 1\tasks1Solution\StrategyDP\obj\Debug\net7.0\StrategyDP.GeneratedMSBuildEditorConfig.editorconfig
+D:\MY ITI\14- Design patterns\day 1\tasks1Solution\StrategyDP\obj\Debug\net7.0\StrategyDP.AssemblyInfoInputs.cache
+D:\MY ITI\14- Design patterns\day 1\tasks1Solution\StrategyDP\obj\Debug\net7.0\StrategyDP.AssemblyInfo.cs
+D:\MY ITI\14- Design patterns\day 1\tasks1Solution\StrategyDP\obj\Debug\net7.0\StrategyDP.csproj.CoreCompileInputs.cache
+D:\MY ITI\14- Design patterns\day 1\tasks1Solution\StrategyDP\bin\Debug\net7.0\StrategyDP.exe
+D:\MY ITI\14- Design patterns\day 1\tasks1Solution\StrategyDP\bin\Debug\net7.0\StrategyDP.deps.json
+D:\MY ITI\14- Design patterns\day 1\tasks1Solution\StrategyDP\bin\Debug\net7.0\StrategyDP.runtimeconfig.json
+D:\MY ITI\14- Design patterns\day 1\tasks1Solution\StrategyDP\bin\Debug\net7.0\StrategyDP.dll
+D:\MY ITI\14- Design patterns\day 1\tasks1Solution\StrategyDP\bin\Debug\net7.0\StrategyDP.pdb
+D:\MY ITI\14- Design patterns\day 1\tasks1Solution\StrategyDP\obj\Debug\net7.0\StrategyDP.dll
+D:\MY ITI\14- Design patterns\day 1\tasks1Solution\StrategyDP\obj\Debug\net7.0\refint\StrategyDP.dll
+D:\MY ITI\14- Design patterns\day 1\tasks1Solution\StrategyDP\obj\Debug\net7.0\StrategyDP.pdb
+D:\MY ITI\14- Design patterns\day 1\tasks1Solution\StrategyDP\obj\Debug\net7.0\StrategyDP.genruntimeconfig.cache
+D:\MY ITI\14- Design patterns\day 1\tasks1Solution\StrategyDP\obj\Debug\net7.0\ref\StrategyDP.dll
