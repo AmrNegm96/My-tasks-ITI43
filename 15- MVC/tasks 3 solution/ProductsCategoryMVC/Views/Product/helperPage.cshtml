@@ -1,0 +1,82 @@
+﻿@using ProductsCategoryMVC.Models;
+@model IEnumerable<ProductsCategoryMVC.Models.Product>
+
+@{
+    ViewBag.Title = "helperPage";
+}
+
+<h2>helperPage</h2>
+
+@helper ListHelper(List<Product> prds)
+{
+    <ol>
+        @foreach (var item in prds)
+        {
+            <li>@item.ProductName</li>
+        }
+    </ol>
+}
+@helper AddHelper(int a, int b)
+{
+    <label>addition of two numbers = @(a+b)</label>
+}
+
+<div style="background-color: aliceblue;">
+    productName : @AddHelper(100, 200);
+    <br />
+    <br />
+</div>
+
+<div style="background-color: aliceblue;">
+    @Html.TextBox("txtname", "amr", new { @class = "textbox", placeholder = "enter name" })
+    <br />
+    <br />
+</div>
+<div style="background-color: aliceblue;">
+    @Html.Label("Name", "Amr")
+    <br />
+    <br />
+</div>
+
+<div style="background-color: aliceblue;">
+    @Html.DropDownList("product", new List<SelectListItem>
+{
+new SelectListItem{Text="laptop" , Value="0"},
+new SelectListItem{Text="mobile" , Value="1"},
+new SelectListItem{Text="tv" , Value="2"}
+})
+
+    <br />
+    <br />
+</div>
+<div style="background-color: aliceblue;">
+    Male:@Html.RadioButton("gender", "male", true)
+    <br />
+    <br />
+    female:@Html.RadioButton("gender", "female", false)
+    <br />
+    <br />
+
+    isMarried: @Html.CheckBox("isMarried", false)
+    <br />
+    <br />
+
+    password: @Html.Password("pass")
+    <br />
+    <br />
+
+    hidden field: @Html.Hidden("studentID")
+    <br />
+    <br />
+    @Html.ActionLink("Go to index", "Index", "Product")
+    <br />
+    <br />
+    <br />
+
+
+</div>
+
+<div style="background-color:aliceblue;">
+    productName : @ListHelper(ViewBag.Products)
+</div>
+

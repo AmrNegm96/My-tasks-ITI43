@@ -1,0 +1,87 @@
+D:\MY ITI\15- MVC\Day7\task 7 solution\day 2 ch\bin\Debug\net6.0\appsettings.Development.json
+D:\MY ITI\15- MVC\Day7\task 7 solution\day 2 ch\bin\Debug\net6.0\appsettings.json
+D:\MY ITI\15- MVC\Day7\task 7 solution\day 2 ch\bin\Debug\net6.0\day 2 ch.staticwebassets.runtime.json
+D:\MY ITI\15- MVC\Day7\task 7 solution\day 2 ch\bin\Debug\net6.0\day 2 ch.exe
+D:\MY ITI\15- MVC\Day7\task 7 solution\day 2 ch\bin\Debug\net6.0\day 2 ch.deps.json
+D:\MY ITI\15- MVC\Day7\task 7 solution\day 2 ch\bin\Debug\net6.0\day 2 ch.runtimeconfig.json
+D:\MY ITI\15- MVC\Day7\task 7 solution\day 2 ch\bin\Debug\net6.0\day 2 ch.dll
+D:\MY ITI\15- MVC\Day7\task 7 solution\day 2 ch\bin\Debug\net6.0\day 2 ch.pdb
+D:\MY ITI\15- MVC\Day7\task 7 solution\day 2 ch\bin\Debug\net6.0\Azure.Core.dll
+D:\MY ITI\15- MVC\Day7\task 7 solution\day 2 ch\bin\Debug\net6.0\Azure.Identity.dll
+D:\MY ITI\15- MVC\Day7\task 7 solution\day 2 ch\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\MY ITI\15- MVC\Day7\task 7 solution\day 2 ch\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\MY ITI\15- MVC\Day7\task 7 solution\day 2 ch\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\MY ITI\15- MVC\Day7\task 7 solution\day 2 ch\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\MY ITI\15- MVC\Day7\task 7 solution\day 2 ch\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\MY ITI\15- MVC\Day7\task 7 solution\day 2 ch\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\MY ITI\15- MVC\Day7\task 7 solution\day 2 ch\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\MY ITI\15- MVC\Day7\task 7 solution\day 2 ch\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\MY ITI\15- MVC\Day7\task 7 solution\day 2 ch\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\MY ITI\15- MVC\Day7\task 7 solution\day 2 ch\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\MY ITI\15- MVC\Day7\task 7 solution\day 2 ch\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\MY ITI\15- MVC\Day7\task 7 solution\day 2 ch\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\MY ITI\15- MVC\Day7\task 7 solution\day 2 ch\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\MY ITI\15- MVC\Day7\task 7 solution\day 2 ch\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\MY ITI\15- MVC\Day7\task 7 solution\day 2 ch\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\MY ITI\15- MVC\Day7\task 7 solution\day 2 ch\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\MY ITI\15- MVC\Day7\task 7 solution\day 2 ch\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\MY ITI\15- MVC\Day7\task 7 solution\day 2 ch\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\MY ITI\15- MVC\Day7\task 7 solution\day 2 ch\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\MY ITI\15- MVC\Day7\task 7 solution\day 2 ch\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\MY ITI\15- MVC\Day7\task 7 solution\day 2 ch\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\MY ITI\15- MVC\Day7\task 7 solution\day 2 ch\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\MY ITI\15- MVC\Day7\task 7 solution\day 2 ch\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\MY ITI\15- MVC\Day7\task 7 solution\day 2 ch\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\MY ITI\15- MVC\Day7\task 7 solution\day 2 ch\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\MY ITI\15- MVC\Day7\task 7 solution\day 2 ch\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\MY ITI\15- MVC\Day7\task 7 solution\day 2 ch\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\MY ITI\15- MVC\Day7\task 7 solution\day 2 ch\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\MY ITI\15- MVC\Day7\task 7 solution\day 2 ch\bin\Debug\net6.0\System.Memory.Data.dll
+D:\MY ITI\15- MVC\Day7\task 7 solution\day 2 ch\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\MY ITI\15- MVC\Day7\task 7 solution\day 2 ch\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\MY ITI\15- MVC\Day7\task 7 solution\day 2 ch\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\MY ITI\15- MVC\Day7\task 7 solution\day 2 ch\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\MY ITI\15- MVC\Day7\task 7 solution\day 2 ch\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\MY ITI\15- MVC\Day7\task 7 solution\day 2 ch\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\MY ITI\15- MVC\Day7\task 7 solution\day 2 ch\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MY ITI\15- MVC\Day7\task 7 solution\day 2 ch\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MY ITI\15- MVC\Day7\task 7 solution\day 2 ch\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MY ITI\15- MVC\Day7\task 7 solution\day 2 ch\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MY ITI\15- MVC\Day7\task 7 solution\day 2 ch\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\MY ITI\15- MVC\Day7\task 7 solution\day 2 ch\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\MY ITI\15- MVC\Day7\task 7 solution\day 2 ch\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\MY ITI\15- MVC\Day7\task 7 solution\day 2 ch\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\MY ITI\15- MVC\Day7\task 7 solution\day 2 ch\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\MY ITI\15- MVC\Day7\task 7 solution\day 2 ch\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\MY ITI\15- MVC\Day7\task 7 solution\day 2 ch\obj\Debug\net6.0\day 2 ch.csproj.AssemblyReference.cache
+D:\MY ITI\15- MVC\Day7\task 7 solution\day 2 ch\obj\Debug\net6.0\day 2 ch.GeneratedMSBuildEditorConfig.editorconfig
+D:\MY ITI\15- MVC\Day7\task 7 solution\day 2 ch\obj\Debug\net6.0\day 2 ch.AssemblyInfoInputs.cache
+D:\MY ITI\15- MVC\Day7\task 7 solution\day 2 ch\obj\Debug\net6.0\day 2 ch.AssemblyInfo.cs
+D:\MY ITI\15- MVC\Day7\task 7 solution\day 2 ch\obj\Debug\net6.0\day 2 ch.csproj.CoreCompileInputs.cache
+D:\MY ITI\15- MVC\Day7\task 7 solution\day 2 ch\obj\Debug\net6.0\day 2 ch.MvcApplicationPartsAssemblyInfo.cache
+D:\MY ITI\15- MVC\Day7\task 7 solution\day 2 ch\obj\Debug\net6.0\day 2 ch.RazorAssemblyInfo.cache
+D:\MY ITI\15- MVC\Day7\task 7 solution\day 2 ch\obj\Debug\net6.0\day 2 ch.RazorAssemblyInfo.cs
+D:\MY ITI\15- MVC\Day7\task 7 solution\day 2 ch\obj\Debug\net6.0\staticwebassets\msbuild.day 2 ch.Microsoft.AspNetCore.StaticWebAssets.props
+D:\MY ITI\15- MVC\Day7\task 7 solution\day 2 ch\obj\Debug\net6.0\staticwebassets\msbuild.build.day 2 ch.props
+D:\MY ITI\15- MVC\Day7\task 7 solution\day 2 ch\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.day 2 ch.props
+D:\MY ITI\15- MVC\Day7\task 7 solution\day 2 ch\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.day 2 ch.props
+D:\MY ITI\15- MVC\Day7\task 7 solution\day 2 ch\obj\Debug\net6.0\staticwebassets.pack.json
+D:\MY ITI\15- MVC\Day7\task 7 solution\day 2 ch\obj\Debug\net6.0\staticwebassets.build.json
+D:\MY ITI\15- MVC\Day7\task 7 solution\day 2 ch\obj\Debug\net6.0\staticwebassets.development.json
+D:\MY ITI\15- MVC\Day7\task 7 solution\day 2 ch\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\MY ITI\15- MVC\Day7\task 7 solution\day 2 ch\obj\Debug\net6.0\scopedcss\bundle\day 2 ch.styles.css
+D:\MY ITI\15- MVC\Day7\task 7 solution\day 2 ch\obj\Debug\net6.0\scopedcss\projectbundle\day 2 ch.bundle.scp.css
+D:\MY ITI\15- MVC\Day7\task 7 solution\day 2 ch\obj\Debug\net6.0\day 2 ch.csproj.CopyComplete
+D:\MY ITI\15- MVC\Day7\task 7 solution\day 2 ch\obj\Debug\net6.0\day 2 ch.dll
+D:\MY ITI\15- MVC\Day7\task 7 solution\day 2 ch\obj\Debug\net6.0\refint\day 2 ch.dll
+D:\MY ITI\15- MVC\Day7\task 7 solution\day 2 ch\obj\Debug\net6.0\day 2 ch.pdb
+D:\MY ITI\15- MVC\Day7\task 7 solution\day 2 ch\obj\Debug\net6.0\day 2 ch.genruntimeconfig.cache
+D:\MY ITI\15- MVC\Day7\task 7 solution\day 2 ch\obj\Debug\net6.0\ref\day 2 ch.dll
+D:\MY ITI\15- MVC\Day7\task 7 solution\day 2 ch\bin\Debug\net6.0\Humanizer.dll
+D:\MY ITI\15- MVC\Day7\task 7 solution\day 2 ch\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\MY ITI\15- MVC\Day7\task 7 solution\day 2 ch\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\MY ITI\15- MVC\Day7\task 7 solution\day 2 ch\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\MY ITI\15- MVC\Day7\task 7 solution\day 2 ch\bin\Debug\net6.0\System.CodeDom.dll
+D:\MY ITI\15- MVC\Day7\task 7 solution\day 2 ch\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\MY ITI\15- MVC\Day7\task 7 solution\day 2 ch\bin\Debug\net6.0\System.Text.Json.dll
+D:\MY ITI\15- MVC\Day7\task 7 solution\day 2 ch\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll

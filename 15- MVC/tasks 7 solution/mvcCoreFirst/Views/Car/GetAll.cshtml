@@ -1,0 +1,42 @@
+﻿@using mvcCoreFirst.Models
+@{
+
+    ViewBag.Title = "GetAll";
+    List<Car> carList = ViewBag.Cars;
+}
+
+<h2>GetAll</h2>
+<a href="/Car/Add">Add New </a>
+
+<div>
+    <table>
+        <tr>
+            <th colspan="2">Num</th>
+           
+            <th colspan="2">color</th>
+        
+            <th colspan="2">model</th>
+       
+            <th colspan="2">manufacturer</th>
+        
+        </tr>
+        @foreach (var item in ViewBag.Cars)
+        {
+            <tr>
+                <td colspan="2">@item.Num </td>
+
+                <td colspan="2"> @item.Color</td>
+
+                <td colspan="2"> @item.Model </td>
+                <td colspan="2"> @item.Manufacture</td>
+
+                <td> <a href="/Car/GetByNum/@item.Num">GetByNum</a></td>
+                <td> <a href="/Car/Delete/@item.Num">Delete</a></td>
+                <td> <a href="/Car/Edit/@item.Num">Edit</a></td>
+
+
+            </tr>
+        }
+
+    </table>
+</div>

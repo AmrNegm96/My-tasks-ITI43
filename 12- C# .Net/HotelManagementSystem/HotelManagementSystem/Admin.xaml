@@ -1,0 +1,96 @@
+﻿<Window x:Class="HotelManagementSystem.Admin"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HotelManagementSystem"
+        mc:Ignorable="d"
+        Title="Admin" Height="450   " Width="1100" Closed="Window_Closed" Background="#FF989494">
+    <Grid>
+        <TabControl Grid.ColumnSpan="2">
+            <TabItem Header="Reservation">
+                <Grid Background="#FFE31414" Width="1100" HorizontalAlignment="Left">
+                    <Grid Width="366.66667" HorizontalAlignment="Left" Panel.ZIndex="1">
+                        <Grid.Background>
+                            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                <GradientStop Color="Black"/>
+                                <GradientStop Color="White" Offset="1"/>
+                            </LinearGradientBrush>
+                        </Grid.Background>
+                        <TextBox x:Name="txtFname" TextWrapping="Wrap" Text="First Name" Width="130" Height="25" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="81,25,0,0" RenderTransformOrigin="0.808,0.435"/>
+                        <TextBox x:Name="txtLname" TextWrapping="Wrap" Text="Last Name" Width="120" Height="25" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="227,25,0,0" RenderTransformOrigin="0.808,0.435"/>
+                        <Label x:Name="lblName" Content="Name" Foreground="White" Margin="10,25,0,0" Width="71" Height="25" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+                        <Label x:Name="lblBirthday" Content="Birthday" Foreground="White" Margin="10,55,0,0" Width="71" Height="25" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+                        <ComboBox x:Name="CboxDay" Width="60" HorizontalAlignment="Left" VerticalAlignment="Top" Height="25" Margin="81,55,0,0"/>
+                        <ComboBox x:Name="CboxMonth" Width="60" HorizontalAlignment="Left" VerticalAlignment="Top" Height="25" Margin="151,55,0,0"/>
+                        <TextBox x:Name="txtYear" TextWrapping="Wrap" Text="Year" Width="120" Height="25" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="227,55,0,0" RenderTransformOrigin="0.808,0.435"/>
+                        <Label x:Name="lblGender" Content="Gender" Foreground="White" Margin="10,85,0,0" Width="66" Height="25" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+                        <ComboBox x:Name="CboxGender" Width="130" HorizontalAlignment="Left" VerticalAlignment="Top" Height="25" Margin="81,85,0,0"/>
+                        <Label x:Name="lblPhone" Content="Phone" Foreground="White" Margin="10,115,0,0" Width="71" Height="25" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+                        <TextBox x:Name="txtPhone" TextWrapping="Wrap" Text="Phone" Width="266" Height="25" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="81,115,0,0" RenderTransformOrigin="0.808,0.435"/>
+                        <Label x:Name="lblEmail" Content="Email" Foreground="White" Margin="10,145,0,0" Width="71" Height="25" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+                        <TextBox x:Name="txtEmail" TextWrapping="Wrap" Text="Email" Width="266" Height="25" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="81,145,0,0" RenderTransformOrigin="0.808,0.435"/>
+                        <Label x:Name="lblAddress" Content="Address" Foreground="White" Margin="10,187,0,0" Width="71" Height="25" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+                        <TextBox x:Name="txtAddress" TextWrapping="Wrap" Text="Address" Width="266" Height="25" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,217,0,0" RenderTransformOrigin="0.808,0.435"/>
+                        <TextBox x:Name="txtAppNo_" TextWrapping="Wrap" Text="AppNo." Width="71" Height="25" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,247,0,0" RenderTransformOrigin="0.808,0.435"/>
+                        <TextBox x:Name="txtCity" TextWrapping="Wrap" Text="City" Width="70" Height="25" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="108,247,0,0" RenderTransformOrigin="0.808,0.435"/>
+                        <TextBox x:Name="txtZipCode" TextWrapping="Wrap" Text="Zip Code" Width="71" Height="25" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="205,247,0,0" RenderTransformOrigin="0.808,0.435"/>
+                        <ComboBox x:Name="CboxState" Width="60" HorizontalAlignment="Left" VerticalAlignment="Top" Height="25" Margin="287,247,0,0"/>
+
+                    </Grid>
+                    <Grid Width="366.66667" HorizontalAlignment="Center" Panel.ZIndex="1">
+                        <Grid.Background>
+                            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                <GradientStop Color="Black" Offset="1"/>
+                                <GradientStop Color="White" Offset="0"/>
+                            </LinearGradientBrush>
+                        </Grid.Background>
+                        <Label x:Name="lblNumberofGuests" Content="Number Of Guests" Foreground="Black" Margin="10,28,246,0" Height="25" VerticalAlignment="Top"/>
+                        <ComboBox x:Name="CboxGuestNumber" Width="120" HorizontalAlignment="Left" VerticalAlignment="Top" Height="25" Margin="126,28,0,0"/>
+                        <Label x:Name="lblRoomType" Content="Room Type" Foreground="Black" Margin="10,58,0,0" Height="25" VerticalAlignment="Top" HorizontalAlignment="Left" Width="111"/>
+                        <ComboBox x:Name="CboxRoomType" Width="120" HorizontalAlignment="Left" VerticalAlignment="Top" Height="25" Margin="126,58,0,0"/>
+                        <Label x:Name="lblRoomNumber" Content="Room Number" Foreground="Black" Margin="10,117,0,0" Height="25" VerticalAlignment="Top" HorizontalAlignment="Left" Width="111"/>
+                        <ComboBox x:Name="CboxRoomNumber" Width="120" HorizontalAlignment="Left" VerticalAlignment="Top" Height="25" Margin="126,117,0,0"/>
+                        <Label x:Name="lblFloor" Content="Floor" Foreground="Black" Margin="10,87,0,0" Height="25" VerticalAlignment="Top" HorizontalAlignment="Left" Width="111"/>
+                        <ComboBox x:Name="CboxFloor" Width="120" HorizontalAlignment="Left" VerticalAlignment="Top" Height="25" Margin="126,87,0,0"/>
+                        <Label x:Name="lblEndDate" Content="End Date" Foreground="Black" Margin="10,172,0,0" Height="25" VerticalAlignment="Top" HorizontalAlignment="Left" Width="111"/>
+                        <Label x:Name="lblStartDate" Content="Start Date" Foreground="Black" Margin="10,147,0,0" Height="25" VerticalAlignment="Top" HorizontalAlignment="Left" Width="111"/>
+                        <DatePicker x:Name="dpStartdate" Width="120" Height="25" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="126,147,0,0"/>
+                        <DatePicker x:Name="dpEnddate" Width="120" Height="25" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="126,172,0,0"/>
+                        <CheckBox x:Name="cbCheckIn" Content="Check In" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,202,0,0"/>
+                        <CheckBox x:Name="cbSendSMS" Content="Send SMS" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="126,202,0,0"/>
+                        <CheckBox x:Name="cbFoodSupplyState" Content="Food Supply State" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="243,202,0,0" Width="124"/>
+                        <Button x:Name="btnFoodMenu" Content="Food Menu" HorizontalAlignment="Center" VerticalAlignment="Top" Height="25" Width="300" Margin="0,232,0,0" Click="btnFoodMenu_Click"/>
+                        <Button x:Name="btnFullPayment" Content="Full Payment" HorizontalAlignment="Center" VerticalAlignment="Top" Height="25" Width="300" Margin="0,271,0,0" Click="btnFullPayment_Click"/>
+
+                    </Grid>
+                    <Grid Width="366.66667" HorizontalAlignment="Right">
+                        <Grid.Background>
+                            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                <GradientStop Color="Black"/>
+                                <GradientStop Color="White" Offset="1"/>
+                            </LinearGradientBrush>
+                        </Grid.Background>
+                        <Button x:Name="btnUpdate" HorizontalAlignment="Center" VerticalAlignment="Top" Content="Update" Height="25" Width="300" Margin="0,178,0,0" Background="#FF24E51B" Foreground="Black" Click="btnUpdate_Click"></Button>
+                        <Button x:Name="btnDelete" HorizontalAlignment="Center" VerticalAlignment="Top" Content="Delete" Height="25" Width="300" Margin="0,208,0,0" Background="#FFC20000" Foreground="White" Click="btnDelete_Click"/>
+                        <Button x:Name="btnEdit" HorizontalAlignment="Center" VerticalAlignment="Top" Content="Edit Existing Reservation" Height="25" Width="300" Margin="0,238,0,0" Click="btnEdit_Click"/>
+                        <Button x:Name="btnNewReservation" HorizontalAlignment="Center" VerticalAlignment="Top" Content="New Reservation" Height="25" Width="300" Margin="0,268,0,0" Click="btnNewReservation_Click"/>
+                        <ComboBox x:Name="CboxAllReservations" Width="300" HorizontalAlignment="Center" VerticalAlignment="Top" Height="25" Margin="0,22,0,0" DropDownClosed="CboxAllReservations_DropDownClosed"/>
+                    </Grid>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Search">
+                <Grid Background="#FFE5E5E5"/>
+            </TabItem>
+            <TabItem Header="Show all reservations" Margin="-2,-2,-2,0">
+                <Grid Background="#FFE5E5E5">
+                    <DataGrid x:Name="grdReservation" d:ItemsSource="{d:SampleData ItemCount=5}" Grid.ColumnSpan="2"/>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Room status" Margin="-2,-2,-2,0">
+                <Grid Background="#FFE5E5E5"/>
+            </TabItem>
+        </TabControl>
+
+    </Grid>
+</Window>

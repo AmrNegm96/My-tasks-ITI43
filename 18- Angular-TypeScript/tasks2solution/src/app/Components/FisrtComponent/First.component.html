@@ -1,0 +1,26 @@
+<h1>First Component works ... </h1>
+<app-second></app-second>
+
+
+<h1>{{name}}</h1>
+
+<!-- pne way binding from ts to html -->
+<input type="text" [value]="name">
+
+
+<br>
+<br>
+
+<!-- 1) -->
+<input type="text" (input)="change($event)" placeholder="first name" [value]="firstName">
+
+<h1>{{firstName}}</h1>
+
+<button (click)="reset($event)"> reset</button>
+<br>
+<br>
+
+<!-- 2) -->
+<!-- we have to include forms module in app.modules.ts  and it work only on attribute "value"-->
+<input type="text" [(ngModel)]="LastName" placeholder="last name"> 
+<h1>{{LastName}}</h1>

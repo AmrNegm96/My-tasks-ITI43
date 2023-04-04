@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lec1", "lec1\lec1.csproj", "{BDA84258-FEB5-4E2F-A016-B78C586251B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "t2", "t2\t2.csproj", "{6EBF4325-D1D6-4183-B945-1C6D4E7BB39B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{E0DB507F-E1DD-4741-B5A6-A356F6793A9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDA84258-FEB5-4E2F-A016-B78C586251B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDA84258-FEB5-4E2F-A016-B78C586251B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDA84258-FEB5-4E2F-A016-B78C586251B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDA84258-FEB5-4E2F-A016-B78C586251B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EBF4325-D1D6-4183-B945-1C6D4E7BB39B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EBF4325-D1D6-4183-B945-1C6D4E7BB39B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EBF4325-D1D6-4183-B945-1C6D4E7BB39B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EBF4325-D1D6-4183-B945-1C6D4E7BB39B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0DB507F-E1DD-4741-B5A6-A356F6793A9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0DB507F-E1DD-4741-B5A6-A356F6793A9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0DB507F-E1DD-4741-B5A6-A356F6793A9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0DB507F-E1DD-4741-B5A6-A356F6793A9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23A34DC0-2AAF-4C25-B02C-1A6D2044A243}
+	EndGlobalSection
+EndGlobal

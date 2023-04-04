@@ -1,0 +1,11 @@
+﻿@model HandleErrorInfo
+@{
+    ViewBag.Title = "myErrorPage";
+}
+
+<h2>myErrorPage</h2>
+
+<h3 style="color:red">*****************Custom error page*****************</h3>
+
+<h3>Error msg:  @Model.Exception.Message </h3>
+<h3>Controller: @Model.ControllerName ---- Action: @Model.ActionName</h3>

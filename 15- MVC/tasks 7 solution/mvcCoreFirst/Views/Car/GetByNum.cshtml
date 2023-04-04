@@ -1,0 +1,14 @@
+﻿@using mvcCoreFirst.Models;
+
+@{
+    ViewBag.Title = "GetByNum";
+    Car a = ViewBag.Car;
+}
+
+<h2>GetByNum</h2>
+<h3>@ViewBag.Car.Num</h3>
+<h3>@ViewBag.Car.Manufacture</h3>
+<h3>@ViewBag.Car.Model</h3>
+<h3>@ViewBag.Car.Color</h3>
+<a href="/Car/GetAll">BackToList</a>
+

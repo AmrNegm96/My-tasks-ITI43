@@ -1,0 +1,5 @@
+C:\Users\PC\source\repos\D17\NorthWindConsoleEF\obj\Release\net7.0\NorthWindConsoleEF.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\D17\NorthWindConsoleEF\obj\Release\net7.0\NorthWindConsoleEF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\D17\NorthWindConsoleEF\obj\Release\net7.0\NorthWindConsoleEF.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\D17\NorthWindConsoleEF\obj\Release\net7.0\NorthWindConsoleEF.AssemblyInfo.cs
+C:\Users\PC\source\repos\D17\NorthWindConsoleEF\obj\Release\net7.0\NorthWindConsoleEF.csproj.CoreCompileInputs.cache

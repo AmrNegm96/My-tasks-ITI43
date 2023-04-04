@@ -1,0 +1,18 @@
+﻿<!-- List list<department> -->
+@model List<Depratment>  // this view is strong typed view 
+
+<table class="table table-bordered table-hover">
+        
+        <tr>
+        <th>Depratment Name</th>
+        <th>Manager Name</th>
+        </tr>
+    
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Name</td>
+            <td>@item.ManagerName</td>
+        </tr>
+    }
+</table>

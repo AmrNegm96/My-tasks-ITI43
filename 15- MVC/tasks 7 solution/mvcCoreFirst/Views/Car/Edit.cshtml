@@ -1,0 +1,15 @@
+﻿@using mvcCoreFirst.Models;
+@{
+    ViewBag.Title = "Edit";
+    Car car = ViewBag.Car;
+}
+
+<h2>Edit</h2>
+<form method="post" action="/Car/Edit">
+    <input type="text" name="id" value="@ViewBag.Car.Num" />
+    <input type="text" name="color" value="@ViewBag.Car.Color" />
+    <input type="text" name="model" value="@ViewBag.Car.Model" />
+    <input type="text" name="manufacturer" value="@ViewBag.Car.Manufacture" />
+    <input type="submit" value="save" />
+</form>
+<a href="/Car/GetAll">BackToList</a>
