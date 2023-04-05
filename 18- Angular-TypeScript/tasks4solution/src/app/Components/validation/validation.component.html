@@ -1,0 +1,34 @@
+<hr>
+<div class="container">
+<h1 class="alert alert-dark text-center my-2">Home with Validation</h1>
+    <div class="row">
+        <div class="col">
+            <form class="form"(ngSubmit)="getValue()" [formGroup]="formValidation">
+                <div class="form-group d-flex flex-column m-auto my-2">
+                    <label class="col-2">Name:</label>
+                    <input formControlName="name" type="text" class="form-control">
+                    <small *ngIf="!NameValid" style="color: red;">
+                        Name not valid (Name must be more than 5 letters)
+                    </small>
+                </div>
+                <div class="form-group d-flex flex-column m-auto my-2">
+                    <label class="col-2">Age:</label>
+                    <input formControlName="age" type="number" class="form-control">
+                    <small *ngIf="!AgeValid" style="color: red;">
+                        Age not valid (20 &lt; Age &lt; 40)
+                    </small>
+                </div>
+                <div class="form-group d-flex flex-column m-auto my-2">
+                    <label class="col-2">Email: </label>
+                    <input formControlName="email" type="email" class="form-control">
+                    <small *ngIf="!EmailValid" style="color: red;">
+                        Email not valid
+                    </small>
+                </div>
+                <div class="form-group d-flex m-auto my-2">
+                    <input type="submit" value="submit" class="btn btn-outline-success text-dark col-12 col-md-6 offset-md-3">
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
