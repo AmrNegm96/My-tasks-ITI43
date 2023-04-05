@@ -1,0 +1,24 @@
+<h1>Registeration</h1>
+<div class="form">
+    <input type="text" placeholder="Enter Name" [(ngModel)]="name">
+    <div style="color: red; text-align: center;" *ngIf="(name.length<5 && name) else trueBlock1">
+        <p>Name not Valid, must be more than 5 characters</p>
+    </div>
+    <ng-template #trueBlock1>
+        <div *ngIf="name"  style="color: green; text-align: center;">
+            <p>Name is Valid</p>
+        </div>
+    </ng-template>
+    <input type="text" placeholder="Enter Age"  [(ngModel)]="age">
+    <div style="color: red; text-align: center;" *ngIf="(+age>40 || (+age<20 && age )) else trueBlock2">
+        <p>Age not Valid , must be between 20 and 40</p>
+    </div>
+    <ng-template  #trueBlock2>
+        <div *ngIf="age" style="color: green; text-align: center;">
+            <p>Age is Valid</p>
+        </div>
+    </ng-template>
+    <input type="submit" value="Add" (click)="add()">
+</div>
+
+
