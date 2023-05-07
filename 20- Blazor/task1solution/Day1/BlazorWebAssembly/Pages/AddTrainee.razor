@@ -1,0 +1,83 @@
+﻿@page "/AddTrainee"
+@inject NavigationManager NavigationManager
+
+@using System.ComponentModel.DataAnnotations
+
+<h3>Add New Trainee</h3>
+
+<EditForm Model="@newTrainee" OnValidSubmit="@HandleValidSubmit" OnInvalidSubmit="@HandleInvalidSubmit">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+
+    <div class="form-group">
+        <label for="name">Name</label>
+        <InputText id="name" class="form-control" @bind-Value="newTrainee.Name" />
+        <ValidationMessage For="@(() => newTrainee.Name)" />
+    </div>
+
+    <div class="form-group">
+        <label for="gender">Gender</label>
+        <InputSelect id="gender" class="form-control" @bind-Value="newTrainee.Gender">
+            @foreach (Gender gender in Enum.GetValues(typeof(Gender)))
+            {
+                <option value="@gender">@gender</option>
+            }
+        </InputSelect>
+        <ValidationMessage For="@(() => newTrainee.Gender)" />
+    </div>
+
+    <div class="form-group">
+        <label for="email">Email</label>
+        <InputText id="email" class="form-control" @bind-Value="newTrainee.Email" />
+        <ValidationMessage For="@(() => newTrainee.Email)" />
+    </div>
+
+    <div class="form-group">
+        <label for="mobileNo">Mobile No</label>
+        <InputText id="mobileNo" class="form-control" @bind-Value="newTrainee.MobileNo" />
+        <ValidationMessage For="@(() => newTrainee.MobileNo)" />
+    </div>
+
+    <div class="form-group">
+        <label for="birthdate">Birthdate</label>
+        <InputDate id="birthdate" class="form-control" @bind-Value="newTrainee.Birthdate" />
+        <ValidationMessage For="@(() => newTrainee.Birthdate)" />
+    </div>
+
+    <div class="form-group">
+        <label for="isGraduated">Is Graduated?</label>
+        <InputCheckbox id="isGraduated" @bind-Value="newTrainee.IsGraduated" />
+        <ValidationMessage For="@(() => newTrainee.IsGraduated)" />
+    </div>
+
+    <div class="form-group row">
+        <label for="Track" class="col-form-label">Track: </label>
+        <InputSelect id="Track" class="form-control" @bind-Value="newTrainee.TrackId">
+            @foreach (var track in MockList.Tracks)
+            {
+                <option value="@track.Id">@track.Name</option>
+            }
+        </InputSelect>
+    </div>
+
+
+
+    <button type="submit" class="btn btn-primary">Submit</button>
+</EditForm>
+@code {
+    private Trainee newTrainee = new Trainee();
+
+    private void HandleValidSubmit()
+    {
+        newTrainee.Id = MockList.trainees.Count + 1; 
+        MockList.trainees.Add(newTrainee); 
+        newTrainee = new Trainee(); 
+        NavigationManager.NavigateTo("/TraineeList");
+    }
+
+    private void HandleInvalidSubmit()
+    {
+        // Handle invalid form submission
+    }
+}
+

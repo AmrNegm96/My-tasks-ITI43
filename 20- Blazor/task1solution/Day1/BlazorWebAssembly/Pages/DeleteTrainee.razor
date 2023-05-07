@@ -1,0 +1,33 @@
+﻿@page "/DeleteTrainee/{empId:int}"
+@inject NavigationManager NavigationManager
+<h3>DeleteTrainee</h3>
+
+@if (trainee == null)
+{
+    <p>Loading....</p>
+}
+else
+{
+    <div>
+        <p>Are you sure you want to delete @trainee.Name?</p>
+        <button class="btn btn-danger" @onclick="HandleDelete">Delete</button>
+        <a href="/trainees" class="btn btn-secondary">Cancel</a>
+    </div>
+}
+@code {
+    [Parameter]
+    public int empId { get; set; }
+
+    private Trainee trainee;
+
+    protected override async Task OnInitializedAsync()
+    {
+        trainee = MockList.trainees.FirstOrDefault(t => t.Id == empId);
+    }
+
+    private async Task HandleDelete()
+    {
+        MockList.trainees.Remove(trainee);
+        NavigationManager.NavigateTo("/TraineeList");
+    }
+}

@@ -1,0 +1,12 @@
+D:\MY ITI\21- Blazor\Day1\task1solution\Day1\sharedLib\bin\Debug\net7.0\sharedLib.deps.json
+D:\MY ITI\21- Blazor\Day1\task1solution\Day1\sharedLib\bin\Debug\net7.0\sharedLib.dll
+D:\MY ITI\21- Blazor\Day1\task1solution\Day1\sharedLib\bin\Debug\net7.0\sharedLib.pdb
+D:\MY ITI\21- Blazor\Day1\task1solution\Day1\sharedLib\obj\Debug\net7.0\sharedLib.csproj.AssemblyReference.cache
+D:\MY ITI\21- Blazor\Day1\task1solution\Day1\sharedLib\obj\Debug\net7.0\sharedLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\MY ITI\21- Blazor\Day1\task1solution\Day1\sharedLib\obj\Debug\net7.0\sharedLib.AssemblyInfoInputs.cache
+D:\MY ITI\21- Blazor\Day1\task1solution\Day1\sharedLib\obj\Debug\net7.0\sharedLib.AssemblyInfo.cs
+D:\MY ITI\21- Blazor\Day1\task1solution\Day1\sharedLib\obj\Debug\net7.0\sharedLib.csproj.CoreCompileInputs.cache
+D:\MY ITI\21- Blazor\Day1\task1solution\Day1\sharedLib\obj\Debug\net7.0\sharedLib.dll
+D:\MY ITI\21- Blazor\Day1\task1solution\Day1\sharedLib\obj\Debug\net7.0\refint\sharedLib.dll
+D:\MY ITI\21- Blazor\Day1\task1solution\Day1\sharedLib\obj\Debug\net7.0\sharedLib.pdb
+D:\MY ITI\21- Blazor\Day1\task1solution\Day1\sharedLib\obj\Debug\net7.0\ref\sharedLib.dll

@@ -1,0 +1,95 @@
+﻿@model WebApplication1.Models.Product
+
+@{
+    ViewData["Title"] = "Details";
+    
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Product</h4>
+    <hr />
+    <div class="row">
+        <dl class="col-5">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Price)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Price)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Quantity)
+        </dt>
+        <dd class="col-sm-10">
+            <span id="quantity">@Model.Quantity</span>
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Image)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Image)
+        </dd>
+        <button class="btn btn-success" onclick="buy(@Model.Id)">Buy</button>
+    </dl>
+        <div class="offset-2 col-5">
+            <img style="width:250px" src="~/Images/@Model.Image"/>
+        </div>
+    </div>
+
+    <strong>Review</strong>
+    
+    <input type="text" id="review"/>
+
+    <button class="btn btn-success" onclick="addReview(@Model.Id)">Add Review</button>
+    <ul id="addedReviews">
+        @foreach (var rvw in ViewBag.reviews)
+        {
+            <li>@rvw.Text</li>
+        }
+    </ul>
+
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts{
+    <script src="~/lib/microsoft-signalr/signalr.min.js"></script>
+    <script>
+        //1-declare hub
+        var connection = new signalR.HubConnectionBuilder()
+            .withUrl("/PrdHub").build();
+        //2-start connection with hub server
+        connection.start()
+            .then(() => console.log("connection success"))
+            .catch(() => console.log("connection failed"));
+
+        //3-send info to hub server
+        function buy(id) {
+            //RPC from server
+            connection.invoke("buy", parseInt(id));
+        }
+        function addReview(id) {
+            var review = document.getElementById("review").value;
+            //RPC from server
+            connection.invoke("addReview", parseInt(id), review);
+        }
+
+        //4- recieve info from hub server
+        connection.on("UpdatePrdQuantity", (quantity) => {
+            document.getElementById("quantity").innerHTML = quantity;
+        })
+        connection.on("AddedReview", (review) => {
+            document.getElementById("addedReviews").innerHTML += `<li>${review}</li>`;
+        })
+        
+    </script>
+}

@@ -1,0 +1,37 @@
+﻿<input type="text" id="name" />
+<input type="text" id="msg" />
+<input type="button" value="send" onclick="sendData()" />
+
+
+<ul id="messages">
+    
+</ul>
+
+<!--signal r client js-->
+@section Scripts{
+    <script src="~/lib/microsoft-signalr/signalr.min.js"></script>
+    <script>
+        //1-declare hub
+        var connection = new signalR.HubConnectionBuilder()
+            .withUrl("/myChatHub").build();
+        //2-start connection with hub server 
+        connection.start()
+            .then(()=>console.log("connection success"))
+            .catch(() => console.log("connection failed"));
+        
+        //3-send info to hub server
+        function sendData(){
+            var name = document.getElementById("name").value;
+            var msg = document.getElementById("msg").value;
+
+            //RPC from server
+            connection.invoke("NewMsg" , name , msg);
+        }
+
+        //4- recieve info from hub server
+        connection.on("NotifyNewMessage",(n,m)=>{
+            document.getElementById("messages").innerHTML+= "("+n "===>" +m+")" ;
+        })
+    
+    </script>
+}

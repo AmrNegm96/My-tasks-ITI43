@@ -1,0 +1,49 @@
+﻿@page "/TraineeList"
+<h3>TraineeList</h3>
+
+@code {
+
+}
+
+@if(MockList.trainees==null)
+{
+    <p>Loading ........... </p>
+}
+else
+{
+    <table class="table table-hover">
+        <thead>
+            <tr>
+                <th> Trainee-ID </th>
+                <th> Name </th>
+                <th> Email </th>
+                <th> Phone </th>
+                <th> Gender </th>
+                <th> Birthdate </th>
+                <th> GraduationStatus </th>
+                <th> TrackId </th>
+                <th>&nbsp;</th>
+                <th>&nbsp;</th>
+                <th>&nbsp;</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(var item in MockList.trainees)
+            {
+                <tr>
+                    <td> @item.Id </td>
+                    <td> @item.Name </td>
+                    <td> @item.Email </td>
+                    <td> @item.MobileNo </td>
+                    <td> @item.Gender </td>
+                    <td> @item.Birthdate </td>
+                    <td> @item.IsGraduated </td>
+                    <td> @item.TrackId </td>
+                    <td scope="row"><a href="@($"/TraineeDetails/{item.Id}")" class="btn btn-outline-secondary">Details</a></td>
+                    <td scope="row"><a href="@($"/UpdateTrainee/{item.Id}")" class="btn btn-outline-primary">Update</a></td>
+                    <td scope="row"><a href="@($"/DeleteTrainee/{item.Id}")" class="btn btn-outline-danger">Delete</a></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

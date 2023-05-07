@@ -1,0 +1,24 @@
+﻿@page "/TraineeDetails/{empId:int}"
+<h3>Details page</h3>
+
+<div class="card text-center">
+    <div class="card-header">
+        Trainee Details For @currentTrainee.Name
+    </div>
+    <div class="card-body">
+        <h5 class="card-title">@currentTrainee.Id</h5>
+        <h5 class="card-title">@currentTrainee.Name</h5>
+        <h5 class="card-title">@currentTrainee.Gender</h5>
+        <h5 class="card-title">@currentTrainee.Email</h5>
+        <h5 class="card-title">@currentTrainee.MobileNo</h5>
+        <h5 class="card-title">@currentTrainee.Birthdate</h5>
+        <h5 class="card-title">@currentTrainee.IsGraduated</h5>
+        <a href="#" class="btn btn-primary">Go somewhere</a>
+    </div>
+    <div class="card-footer text-muted">
+        
+    </div>
+</div>
+@code {
+
+}
